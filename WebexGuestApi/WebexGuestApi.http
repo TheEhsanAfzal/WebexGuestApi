@@ -1,0 +1,6 @@
+@WebexGuestApi_HostAddress = http://localhost:5187
+
+GET {{WebexGuestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
